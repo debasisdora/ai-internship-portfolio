@@ -1,0 +1,3 @@
+Day 2 started
+Functions section complete
+Comprehensions section complete

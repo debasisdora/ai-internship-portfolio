@@ -1,0 +1,14 @@
+{
+  "student_id": "BCA2026-041",
+  "name": "Ananya Sharma",
+  "semester": 4,
+  "subjects": {
+    "python": 88,
+    "database_management": 76,
+    "statistics": 91
+  },
+  "internship": {
+    "company": "TBD",
+    "domain": "AI/ML"
+  }
+}

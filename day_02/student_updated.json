@@ -1,0 +1,15 @@
+{
+  "student_id": "BCA2026-041",
+  "name": "Ananya Sharma",
+  "semester": 4,
+  "subjects": {
+    "python": 88,
+    "database_management": 76,
+    "statistics": 91
+  },
+  "internship": {
+    "company": "nielit ai internship progam",
+    "domain": "AI/ML",
+    "start_date": "2026-07-15"
+  }
+}
